@@ -1,0 +1,129 @@
+
+header{
+	padding-right: 178px;
+	padding-top: 1px;
+	padding-bottom: 0px;
+}
+
+li{ float: right;
+    display: inline;
+    padding: 16px 14px;
+    color: #777777;
+    font-weight: 200;
+ }
+
+ ul{    margin: auto;
+ }
+ .top {background-color: #011023;
+ 	   color: white;
+ 	   padding-top: 156px;
+ 	   padding-bottom: 156px;
+ 	   padding-left: 134px;
+ 	   padding-right: 153px;
+}
+
+ .hero-links {
+ 	padding: 0;
+ }
+
+ .hero-links li {
+ 	float: left;
+    padding: 16px 14px 16px 0;
+
+ }
+
+ h1{font-size: 45px;
+ 	font-weight: 200;
+ }
+
+ h4{font-size: 15px;
+ 	font-weight: 200;
+
+ }
+
+ h2{text-align: center;
+ 	font-weight: 200;
+
+ }
+ .nav {text-align: left;
+ }
+
+ #signup1 {
+ 	border-radius: 25px;
+    background: #46B0F3;
+    padding: 20px; 
+    width: 120px;
+    height: 45px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-weight: 200;
+
+ }
+ #features1{
+    border-radius: 25px;
+    border: 2px solid #46B0F3;
+    padding: 20px; 
+    width: 120px;
+    height: 45px; 
+    text-align: center;
+    padding-top: 9px;
+    margin-right: 17px;
+    color: white;
+    font-weight: 200;
+
+}
+#login1{
+	border-radius: 25px;
+    background: #239F85;
+    padding: 20px; 
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    padding-top: 8px;
+    margin-top: 3px;
+    color: white;
+    font-weight: 200;
+
+}
+.format1{
+	background-color: #333E49;
+	padding: 15px;
+	font-weight: 200;
+
+}
+
+.format1 input{
+	width: 100%;
+	margin: 10px 0;
+	height: 45px;
+	font-weight: 200;
+}
+.format1 button{
+	width: 100%;
+	margin: 10px 0;
+	height: 45px;
+	background-color: #46B0F3;
+	color: white;
+    border-width: 0px;
+    font-weight: 200;
+}
+
+ a{
+ 	color: white;
+ 	font-size: 10px;
+    padding-right: 0px;
+    padding-left: 181px;
+ }
+ h3{
+ 	color: #2F81B7;
+ 	text-align: center;
+ 	padding-top: 69px;
+
+ }
+ p{
+ 	color: #777777;
+ 	padding-top: 9px;
+    font-weight: 200;
+ 	text-align: center;
+ }
